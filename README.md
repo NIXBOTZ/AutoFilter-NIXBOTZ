@@ -6,7 +6,7 @@
 </h2>
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=NIXBOTZ+AUTO+FILTER+BOT+!!;CREATED+BY+NIXBOTZ!;A+ADVANCE+BOT+WITH+COOL+FEATURES!!)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7636DFA3&width=435&lines=NIXBOTZ+AUTO+FILTER+BOT+!!;CREATED+BY+NIXBOTZ+!!;A+ADVANCE+BOT+WITH+COOL+FEATURES!!)](https://git.io/typing-svg)
 </p>
 
 
