@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://graph.org/file/fb0332f04c8f3a56a89d4.jpg" alt="NI AutoFilter Bot Logo">
+  <img src="https://envs.sh/NU5.png" alt="NI AutoFilter Bot Logo">
 </p>
 <h2 align="center">
         「 ɴɪ ᴀᴜᴛᴏғɪʟᴛᴇʀ ʙᴏᴛ 」
