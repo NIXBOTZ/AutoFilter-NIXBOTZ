@@ -89,8 +89,6 @@
 * Check [info.py](https://github.com/erotixe/AutoFilter/blob/main/info.py) for more optional variables
 </details>
 
-<details>
-   <summary><b>ᴄᴏᴍᴍᴀɴᴅꜱ:</b></summary>
 ## 𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠
 ```
 /start - ꜱᴛᴀʀᴛ ᴍᴇ...
@@ -153,7 +151,6 @@
 /myplan - ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴄᴜʀʀᴜɴᴛ ᴘʟᴀɴ.
 /restart - ʀᴇꜱᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ
 ```
-</details>
 
 <details>
 <summary><h3><b>ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅs :</b></h3></summary>
