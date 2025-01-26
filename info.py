@@ -29,7 +29,7 @@ BOT_TOKEN = environ.get('BOT_TOKEN', "")
 PICS = (environ.get('PICS', 'https://envs.sh/fC8.jpg https://envs.sh/fC7.jpg https://envs.sh/fCo.jpg https://envs.sh/fCr.jpg https://envs.sh/fCs.jpg https://envs.sh/fRe.jpg https://envs.sh/fRt.jpg')).split() 
 
 NOR_IMG = environ.get("NOR_IMG", "https://envs.sh/fRe.jpg")
-MELCOW_VID = environ.get("MELCOW_VID", "https://graph.org/file/ccf3cbc4687263ac63420.jpg")
+MELCOW_VID = environ.get("MELCOW_VID", "https://envs.sh/fRb.jpg")
 SPELL_IMG = environ.get("SPELL_IMG", "https://graph.org/file/549fd9f3272214acade82.jpg")
 
 FORCESUB_IMG = (environ.get('FORCESUB_IMG', 'https://graph.org/file/9649c1dcbae09f2e7700e.jpg'))
