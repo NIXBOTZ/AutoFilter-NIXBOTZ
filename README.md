@@ -2,7 +2,7 @@
   <img src="https://graph.org/file/fb0332f04c8f3a56a89d4.jpg" alt="AutoFilter-NIXBOTZ Logo">
 </p>
 <h2 align="center">
-        「 ᴀᴜᴛᴏғɪʟᴛᴇʀ ɴɪxʙᴏᴛz 」
+        「 ᴀᴜᴛᴏғɪʟᴛᴇʀ ɴɪxʙᴏᴛᴢ 」
 </h2>
 
 
