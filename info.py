@@ -26,9 +26,9 @@ BOT_TOKEN = environ.get('BOT_TOKEN', "")
 #--------------------------- ɪᴍᴀɢᴇs ʟɪɴᴋ -----------------------------
 
 # sᴛᴀʀᴛ ɪᴍᴀɢᴇs ʟɪɴᴋ  || ʏoᴜ cᴀɴ ᴀᴅᴅ ᴍᴜʟᴛɪᴘʟᴇꜱ ɪᴍᴀɢᴇs ʟɪɴᴋ ʙʏ ɢɪvɪɴɢ oɴᴇ sᴘᴀcᴇ ʙᴇᴛwᴇᴇɴ ᴇᴀc𝙷
-PICS = (environ.get('PICS', 'https://envs.sh/fC8.jpg https://envs.sh/fC7.jpg https://envs.sh/fCo.jpg https://envs.sh/fCr.jpg https://envs.sh/fCs.jpg')).split() 
+PICS = (environ.get('PICS', 'https://envs.sh/fC8.jpg https://envs.sh/fC7.jpg https://envs.sh/fCo.jpg https://envs.sh/fCr.jpg https://envs.sh/fCs.jpg https://envs.sh/fRe.jpg https://envs.sh/fRt.jpg')).split() 
 
-NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/549fd9f3272214acade82.jpg")
+NOR_IMG = environ.get("NOR_IMG", "https://envs.sh/fRe.jpg")
 MELCOW_VID = environ.get("MELCOW_VID", "https://graph.org/file/ccf3cbc4687263ac63420.jpg")
 SPELL_IMG = environ.get("SPELL_IMG", "https://graph.org/file/549fd9f3272214acade82.jpg")
 
