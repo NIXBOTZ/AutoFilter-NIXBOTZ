@@ -86,9 +86,7 @@
 * Check [info.py](https://github.com/NIXBOTZ/AutoFilter-NIXBOTZ/blob/main/info.py) for more optional variables
 </details>
 
-<details>
-   <summary><b>ᴄᴏᴍᴍᴀɴᴅꜱ:</b></summary>
-## 𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠
+## ᴄᴏᴍᴍᴀɴᴅꜱ
 ```
 /start - ꜱᴛᴀʀᴛ ᴍᴇ...
 /alive - ᴛᴏ ʙᴏᴛ ʀᴇsᴘoɴsᴇ ᴛᴇꜱᴛ
