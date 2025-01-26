@@ -37,7 +37,7 @@ FORCESUB_IMG = (environ.get('FORCESUB_IMG', 'https://graph.org/file/9649c1dcbae0
 REFER_IMG = (environ.get("REFER_IMG", "https://envs.sh/fRn.jpg")).split() 
 
 SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://envs.sh/fRA.png'))
-CODE = (environ.get('CODE', 'https://graph.org/file/02e7ecc3e2693b481b914.jpg'))
+CODE = (environ.get('CODE', 'https://envs.sh/fRg.png'))
 
 #------------------ sᴛᴀʀᴛ ᴄᴏᴍᴍᴀɴᴅ ʀᴇᴀcᴛɪoɴs ----------------------
 
