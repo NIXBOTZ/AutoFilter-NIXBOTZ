@@ -34,9 +34,9 @@ SPELL_IMG = environ.get("SPELL_IMG", "https://graph.org/file/549fd9f3272214acade
 
 FORCESUB_IMG = (environ.get('FORCESUB_IMG', 'https://graph.org/file/9649c1dcbae09f2e7700e.jpg'))
 
-REFER_IMG = (environ.get("REFER_IMG", "https://envs.sh/PSI.jpg")).split() 
+REFER_IMG = (environ.get("REFER_IMG", "https://envs.sh/fRn.jpg")).split() 
 
-SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://graph.org/file/347c1f79f36d3cf14e0f5.jpg'))
+SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://envs.sh/fRA.png'))
 CODE = (environ.get('CODE', 'https://graph.org/file/02e7ecc3e2693b481b914.jpg'))
 
 #------------------ sᴛᴀʀᴛ ᴄᴏᴍᴍᴀɴᴅ ʀᴇᴀcᴛɪoɴs ----------------------
